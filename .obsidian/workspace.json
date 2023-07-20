@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b96b4dea3813e89",
+        "id": "3c223a33246ace83",
         "type": "tabs",
         "children": [
           {
-            "id": "66dfacd4c7b0a5b1",
+            "id": "9b70892329d7fc3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,9 +128,17 @@
                 "file": "个人/未命名.md"
               }
             }
+          },
+          {
+            "id": "7e1d4a34aacae074",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "66dfacd4c7b0a5b1",
+  "active": "9b70892329d7fc3f",
   "lastOpenFiles": [
     "README.md",
     "个人/未命名.md",
